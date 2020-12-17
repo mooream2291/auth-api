@@ -2,24 +2,24 @@
 
 # LAB - Class 8
 
-## Project: 
+## Project: auth api
 
 ### Author: Student/Group Name
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+[GitHub](https://github.com/mooream2291/auth-api)
 
 ### Setup
+
+install package.json
 
 #### `.env` requirements (where applicable)
 
 i.e.
 
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+- `MONGODB_URI` - MONGODB_URI=mongodb://localhost:27017/bearer
 
 #### How to initialize/run your application (where applicable)
 
@@ -30,9 +30,17 @@ i.e.
 #### Tests
 
 - How do you run tests?
+
+still need tests
+
 - Any tests of note?
+
+still need tests
+
 - Describe any tests that you did not complete, skipped, etc
+
+still need tests
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+[UML](lab-8.png)
